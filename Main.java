@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Välkommen");
         System.out.println("Just checking.");
         System.out.println("Another one.");
+        int x = 0;
     }
 }
